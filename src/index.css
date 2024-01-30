@@ -119,8 +119,9 @@ html {
 h1 {
   font-size: 200px;
   font-weight: bolder;
-  color: black;
+  color: salmon; 
 }
+/* change back to black */
 
 footer {
   background-color: #656565;
