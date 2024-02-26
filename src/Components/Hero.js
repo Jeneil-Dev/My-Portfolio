@@ -19,7 +19,7 @@ export default function Hero(){
                 <h1 >Full-stack Software Engineer</h1>
                 <span>With a passion for problem solving and design</span>
                 {/* <span>instagram Github link</span> */}
-                <Link className="links" to={`/resume`}> <button className="main-button">Resume</button> </Link>  
+                <Link className="links" to={`/contact`}> <button className="left-margin main-button">Let's Connect</button> </Link>   
                 <div className="tech-stack">Tech Stack | ( HTML CSS JS REACT BOOTSTRAP MONGODB FIGMA ) </div>
             </div>
         </div>

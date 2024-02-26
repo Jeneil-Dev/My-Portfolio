@@ -235,3 +235,6 @@ background-color:#656565;
 .br{
   border-radius: 10px;
 }
+small:hover{
+  font-weight: bold;
+}

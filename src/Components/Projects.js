@@ -39,7 +39,7 @@ export default function CurrentProject() {
           </Card.Body>
           <Card.Footer>
 
-            <small className="text-muted">VIEW ON GITHUB</small>
+            <small className="text-muted">GITHUB</small> | <small className="text-muted">LIVE VIEW</small>
           </Card.Footer>
         </Card>
       </CardGroup>
@@ -61,7 +61,7 @@ export default function CurrentProject() {
             </Card.Text>
           </Card.Body>
           <Card.Footer>
-            <small className="text-muted">VIEW ON GITHUB</small>
+          <small className="text-muted">GITHUB</small> | <small className="text-muted">LIVE VIEW</small>
           </Card.Footer>
         </Card>
       </CardGroup>
@@ -84,7 +84,7 @@ export default function CurrentProject() {
           </Card.Body>
           <Card.Footer>
             
-            <a href="https://github.com/Nell-intech/Mongoose-Flights"> <small className="text-muted">VIEW ON GITHUB</small> </a>
+          <small className="text-muted">GITHUB</small> | <small className="text-muted">LIVE VIEW</small>
           </Card.Footer>
         </Card>
       </CardGroup>
