@@ -23,12 +23,12 @@ export default function CurrentProject() {
 
       <CardGroup>
         <Card>
-          <Card.Img variant="top" src={recipeSite} />
+        <Card.Img variant="top" src={studentList} />
         </Card>
 
         <Card className="cardContainer">
           <Card.Body className="cardBody">
-            <Card.Title>Front-end Recipe Site</Card.Title>
+            <Card.Title>Korilla Receipt</Card.Title>
             <Card.Text>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus corporis fugiat natus minima dolores earum,
               dignissimos cumque eaque, nobis ipsam doloremque sit inventore praesentium ad, voluptates in pariatur mollitia nam?
@@ -39,7 +39,7 @@ export default function CurrentProject() {
           </Card.Body>
           <Card.Footer>
 
-            <small className="text-muted">GITHUB</small> | <small className="text-muted">LIVE VIEW</small>
+            <small className="text-muted"> <a href="https://github.com/Jeneil-Dev/Korilla-Receipts1.git">GITHUB</a></small> | <small className="text-muted"> <a href="https://korilla-receipts-ah4p.onrender.com">LIVE VIEW</a></small>
           </Card.Footer>
         </Card>
       </CardGroup>
@@ -61,7 +61,7 @@ export default function CurrentProject() {
             </Card.Text>
           </Card.Body>
           <Card.Footer>
-          <small className="text-muted">GITHUB</small> | <small className="text-muted">LIVE VIEW</small>
+          <small className="text-muted"> <a href="https://github.com/Jeneil-Dev/Student-Scores.git">GITHUB</a></small> | <small className="text-muted"> <a href="https://student-scores.onrender.com">LIVE VIEW</a></small>
           </Card.Footer>
         </Card>
       </CardGroup>
@@ -73,7 +73,7 @@ export default function CurrentProject() {
 
         <Card className="cardContainer">
           <Card.Body className="cardBody">
-            <Card.Title>Augustus Airlines React</Card.Title>
+            <Card.Title>The Igloo Stock React App</Card.Title>
             <Card.Text>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus corporis fugiat natus minima dolores earum,
               dignissimos cumque eaque, nobis ipsam doloremque sit inventore praesentium ad, voluptates in pariatur mollitia nam?
@@ -84,7 +84,7 @@ export default function CurrentProject() {
           </Card.Body>
           <Card.Footer>
             
-          <small className="text-muted">GITHUB</small> | <small className="text-muted">LIVE VIEW</small>
+          <small className="text-muted"><a href="https://github.com/Jeneil-Dev/The-Igloo-Stock-App.git">GITHUB</a></small> | <small className="text-muted"><a href="https://the-igloo-stock-app.onrender.com">LIVE VIEW</a></small>
           </Card.Footer>
         </Card>
       </CardGroup>
